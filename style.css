@@ -1,0 +1,23 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Bitter', serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.order-now{
+    background-color:orangered;
+
+border-radius: 5px;
+padding: 10px 20px;
+font-size: 20px;
+text-decoration: none;
+font-weight:600;
+}
+.in-line{
+    padding-left: 0%;
+}
